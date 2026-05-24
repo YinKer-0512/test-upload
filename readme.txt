@@ -1,1 +1,1 @@
-Hello,this is my first repository!
+This is 5.24
